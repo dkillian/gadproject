@@ -1,4 +1,4 @@
-## The Run Analysis Code Book
+## ========= The Run Analysis Script Code Book =========
 This Code book presents a description of all the variables use used or generated. It's the Data dictionnary
 Variables 
 #### x_train and y_train 
